@@ -1,4 +1,4 @@
-# Awesome ALL-MLP-based papers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome All-MLP-based papers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome fully MLP-based learning resources. 
 
