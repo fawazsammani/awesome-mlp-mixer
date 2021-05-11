@@ -11,6 +11,7 @@ Please help in contributing to this list by submitting an [issue](https://github
 Markdown format:
 ```markdown
 - Paper Name [[pdf]](link) [[code]](link), *Conference Year*
+```
 
 
 ## Computer Vision
