@@ -8,7 +8,6 @@ After transformers and fully-based attention mechanism models took over the deep
 ## Contributing
 Please help in contributing to this list by submitting an [issue](https://github.com/fawazsammani/awesome-mlp-mixer/issues) or a [pull request](https://github.com/fawazsammani/awesome-mlp-mixer/pulls)
 
-Markdown format:
 ```markdown
 - Paper Name [[pdf]](link) [[code]](link), *Conference Year*
 ```
