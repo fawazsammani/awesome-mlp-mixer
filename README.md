@@ -1,6 +1,6 @@
 # Awesome All-MLP-based papers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome fully MLP-based learning resources. 
+An up-to-date list of awesome fully MLP-based learning resources. 
 
 #### Why this repo?
 After transformers and fully-based attention mechanism models took over the deep learning world since 2018, it appears that the power does not come from attention, and indeed replacing the feed-forward network in a transformer by attention performs horrible [(~30% top-1 on ImageNet)](https://arxiv.org/pdf/2105.02723.pdf). It appears that *Attention is not all we need*. After all, we don't need inductive-biased models such as CNNs anymore, and we can lean back on MLPs since (1) we have enough data, (2) We have powerful optimization and regularization techniques. As we saw a big hipe on transformers [awesome vision transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) and [BERT-related papers](https://github.com/tomohideshibata/BERT-related-papers), we expect to see a big hipe in fully MLP-based networks *without attention*. This repository aims at gathering and collecting all these kind of papers.
