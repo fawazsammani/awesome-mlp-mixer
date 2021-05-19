@@ -13,8 +13,10 @@ Please help in contributing to this list by submitting an [issue](https://github
 ```
 
 
-## Computer Vision
+## Vision
 - MLP-Mixer: An all-MLP Architecture for Vision [[pdf]](https://arxiv.org/pdf/2105.01601.pdf) [[official code]](https://github.com/google-research/vision_transformer/tree/linen) [[code]](https://github.com/rishikksh20/MLP-Mixer-pytorch) [[code]](https://github.com/lucidrains/mlp-mixer-pytorch) [[code]](https://github.com/jeonsworld/MLP-Mixer-Pytorch) [[Yannic Kilcher Video]](https://www.youtube.com/watch?v=7K4Z8RqjWIk), *2021*
 - Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet [[pdf]](https://arxiv.org/pdf/2105.02723.pdf) [[code]](https://github.com/lukemelas/do-you-even-need-attention), *2021*
 - ResMLP: Feedforward networks for image classification with data-efficient training [[pdf]](https://arxiv.org/pdf/2105.03404.pdf) [[code]](https://github.com/lucidrains/res-mlp-pytorch) [[code]](https://github.com/rishikksh20/ResMLP-pytorch), *2021*
+
+## NLP
 - FNet: Mixing Tokens with Fourier Transforms [[pdf]](https://arxiv.org/pdf/2105.03824.pdf) [[code]](https://github.com/rishikksh20/FNet-pytorch), *2021*
