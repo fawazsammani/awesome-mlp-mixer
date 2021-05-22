@@ -19,4 +19,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Pay Attention to MLPs [[pdf]](https://arxiv.org/pdf/2105.08050.pdf) [[code]](https://github.com/lucidrains/g-mlp-pytorch) [[code]](https://github.com/lucidrains/g-mlp-gpt)
 
 ## NLP
-- FNet: Mixing Tokens with Fourier Transforms [[pdf]](https://arxiv.org/pdf/2105.03824.pdf) [[code]](https://github.com/rishikksh20/FNet-pytorch)
+- FNet: Mixing Tokens with Fourier Transforms [[pdf]](https://arxiv.org/pdf/2105.03824.pdf) [[code]](https://github.com/rishikksh20/FNet-pytorch) [[Yannic Kilcher Video]](https://www.youtube.com/watch?v=JJR3pBl78zw&t=1s)
