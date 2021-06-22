@@ -21,4 +21,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Can Attention Enable MLPs To Catch Up With CNNs? [[pdf]](https://arxiv.org/pdf/2105.15078.pdf)
 - MixerGAN: An MLP-Based Architecture for Unpaired Image-to-Image Translation [[pdf]](https://arxiv.org/pdf/2105.14110.pdf)
 - On the Bias Against Inductive Biases [[pdf]](https://arxiv.org/pdf/2105.14077.pdf)
-- S2 MLP: Spatial-Shift MLP Architecture for Vision [[pdf]](https://arxiv.org/pdf/2106.07477.pdf)
+- S^2 MLP: Spatial-Shift MLP Architecture for Vision [[pdf]](https://arxiv.org/pdf/2106.07477.pdf)
