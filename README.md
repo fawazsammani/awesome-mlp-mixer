@@ -24,3 +24,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - S<sup>2</sup> MLP: Spatial-Shift MLP Architecture for Vision [[pdf]](https://arxiv.org/pdf/2106.07477.pdf)
 - Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition [[pdf]](https://arxiv.org/pdf/2106.12368.pdf) [[code]](https://github.com/Andrew-Qibin/VisionPermutator)
 - Rethinking Token-Mixing MLP for MLP-based Vision Backbone [[pdf]](https://arxiv.org/pdf/2106.14882.pdf)
+- Global Filter Networks for Image Classification [[pdf]](https://arxiv.org/pdf/2107.00645.pdf) [[code]](https://github.com/raoyongming/GFNet)
