@@ -27,3 +27,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Global Filter Networks for Image Classification [[pdf]](https://arxiv.org/pdf/2107.00645.pdf) [[code]](https://github.com/raoyongming/GFNet)
 - What Makes for Hierarchical Vision Transformer? [[pdf]](https://arxiv.org/pdf/2107.02174.pdf)
 - As-MLP: An Axial Shifted MLP architecture for Vision [[pdf]](https://arxiv.org/pdf/2107.08391.pdf)[[code]](https://github.com/svip-lab/AS-MLP)
+- CycleMLP: A MLP-like Architecture for Dense Prediction [[pdf]](https://arxiv.org/pdf/2107.10224.pdf)[[code]](https://github.com/ShoufaChen/CycleMLP)
