@@ -29,3 +29,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - As-MLP: An Axial Shifted MLP architecture for Vision [[pdf]](https://arxiv.org/pdf/2107.08391.pdf)[[code]](https://github.com/svip-lab/AS-MLP)
 - CycleMLP: A MLP-like Architecture for Dense Prediction [[pdf]](https://arxiv.org/pdf/2107.10224.pdf)[[code]](https://github.com/ShoufaChen/CycleMLP)
 - S<sup>2</sup> MLPv2: Improved Spatial-Shift MLP Architecture for Vision [[pdf]](https://arxiv.org/pdf/2108.01072.pdf)
+- RaftMLP: Do MLP-based Models Dream of Winning Over Computer Vision? [[pdf]](https://arxiv.org/pdf/2108.04384.pdf) [[code]](https://github.com/okojoalg/raft-mlp)
