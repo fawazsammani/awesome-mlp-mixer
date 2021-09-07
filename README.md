@@ -30,3 +30,5 @@ Please help in contributing to this list by submitting an [issue](https://github
 - CycleMLP: A MLP-like Architecture for Dense Prediction [[pdf]](https://arxiv.org/pdf/2107.10224.pdf)[[code]](https://github.com/ShoufaChen/CycleMLP)
 - S<sup>2</sup> MLPv2: Improved Spatial-Shift MLP Architecture for Vision [[pdf]](https://arxiv.org/pdf/2108.01072.pdf)
 - RaftMLP: Do MLP-based Models Dream of Winning Over Computer Vision? [[pdf]](https://arxiv.org/pdf/2108.04384.pdf) [[code]](https://github.com/okojoalg/raft-mlp)
+- Hire-MLP: Vision MLP via Hierarchical Rearrangement [[pdf]](https://arxiv.org/pdf/2108.13341.pdf)
+
