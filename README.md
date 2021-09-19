@@ -32,3 +32,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - RaftMLP: Do MLP-based Models Dream of Winning Over Computer Vision? [[pdf]](https://arxiv.org/pdf/2108.04384.pdf) [[code]](https://github.com/okojoalg/raft-mlp)
 - Hire-MLP: Vision MLP via Hierarchical Rearrangement [[pdf]](https://arxiv.org/pdf/2108.13341.pdf)
 - Sparse-MLP: A Fully-MLP Architecture with Conditional Computation [[pdf]](https://arxiv.org/pdf/2109.02008.pdf)
+- Sparse MLP for Image Recognition: Is Self-Attention Really Necessary? [[pdf]](https://arxiv.org/pdf/2109.05422.pdf)
