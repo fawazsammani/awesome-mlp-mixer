@@ -34,3 +34,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Sparse-MLP: A Fully-MLP Architecture with Conditional Computation [[pdf]](https://arxiv.org/pdf/2109.02008.pdf)
 - Sparse MLP for Image Recognition: Is Self-Attention Really Necessary? [[pdf]](https://arxiv.org/pdf/2109.05422.pdf)
 - Patches Are All You Need? [[pdf]](https://openreview.net/pdf?id=TVHS5Y4dNvM) [[code]](https://github.com/tmp-iclr/convmixer)
+- Exploring the Limits of Large Scale Pre-training [[pdf]](https://arxiv.org/pdf/2110.02095.pdf)
