@@ -36,3 +36,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Patches Are All You Need? [[pdf]](https://openreview.net/pdf?id=TVHS5Y4dNvM) [[code]](https://github.com/tmp-iclr/convmixer)
 - Exploring the Limits of Large Scale Pre-training [[pdf]](https://arxiv.org/pdf/2110.02095.pdf)
 - Adversarial Robustness Comparison of Vision Transformer and MLP-Mixer to CNNs [[pdf]](https://arxiv.org/pdf/2110.02797.pdf) [[code]](https://github.com/phibenz/robustness_comparison_vit_mlp-mixer_cnn)
+- Cascaded Cross MLP-Mixer GANs for Cross-View Image Translation [[pdf]](https://arxiv.org/pdf/2110.10183.pdf) [[code]](https://github.com/Amazingren/CrossMLP)
