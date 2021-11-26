@@ -38,4 +38,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Adversarial Robustness Comparison of Vision Transformer and MLP-Mixer to CNNs [[pdf]](https://arxiv.org/pdf/2110.02797.pdf) [[code]](https://github.com/phibenz/robustness_comparison_vit_mlp-mixer_cnn)
 - Cascaded Cross MLP-Mixer GANs for Cross-View Image Translation [[pdf]](https://arxiv.org/pdf/2110.10183.pdf) [[code]](https://github.com/Amazingren/CrossMLP)
 - Are We Ready for a New Paradigm Shift? A Survey on Visual Deep MLP [[pdf]](https://arxiv.org/pdf/2111.04060.pdf)
-- MetaFormer is Actually What You Need for Vision [[pdf]](https://arxiv.org/pdf/2111.11418.pdf)[[code]](https://github.com/sail-sg/poolformer)
+- MetaFormer is Actually What You Need for Vision [[pdf]](https://arxiv.org/pdf/2111.11418.pdf) [[code]](https://github.com/sail-sg/poolformer)
