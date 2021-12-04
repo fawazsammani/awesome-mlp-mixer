@@ -41,3 +41,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - MetaFormer is Actually What You Need for Vision [[pdf]](https://arxiv.org/pdf/2111.11418.pdf) [[code]](https://github.com/sail-sg/poolformer)
 - An Image Patch is a Wave: Phase-Aware Vision MLP [[pdf]](https://arxiv.org/pdf/2111.12294.pdf)
 - MorphMLP: A Self-Attention Free, MLP-Like Backbone for Image and Video [[pdf]](https://arxiv.org/pdf/2111.12527.pdf)
+- SWAT: Spatial Structure Within and Among Tokens [[pdf]](https://arxiv.org/pdf/2111.13677.pdf)
