@@ -42,3 +42,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - An Image Patch is a Wave: Phase-Aware Vision MLP [[pdf]](https://arxiv.org/pdf/2111.12294.pdf)
 - MorphMLP: A Self-Attention Free, MLP-Like Backbone for Image and Video [[pdf]](https://arxiv.org/pdf/2111.12527.pdf)
 - SWAT: Spatial Structure Within and Among Tokens [[pdf]](https://arxiv.org/pdf/2111.13677.pdf)
+- MLP Architectures for Vision-and-Language Modeling: An Empirical Study [[pdf]](https://arxiv.org/pdf/2112.04453.pdf)[[code]](https://github.com/easonnie/mlp-vil)
