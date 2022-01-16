@@ -44,3 +44,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - SWAT: Spatial Structure Within and Among Tokens [[pdf]](https://arxiv.org/pdf/2111.13677.pdf)
 - MLP Architectures for Vision-and-Language Modeling: An Empirical Study [[pdf]](https://arxiv.org/pdf/2112.04453.pdf) [[code]](https://github.com/easonnie/mlp-vil)
 - RepMLPNet: Hierarchical Vision MLP with Re-parameterized Locality [[pdf]](https://arxiv.org/pdf/2112.11081.pdf) [[code]](https://github.com/DingXiaoH/RepMLP)
+- MAXIM: Multi-Axis MLP for Image Processing [[pdf]](https://arxiv.org/pdf/2201.02973.pdf)
