@@ -48,4 +48,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - ShiftViT: An Extremely Simple Alternative to Attention Mechanism [[pdf]](https://arxiv.org/pdf/2201.10801.pdf) [[code]](https://github.com/microsoft/SPACH)
 - Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs [[pdf]](https://arxiv.org/pdf/2202.06510.pdf) [[code]](https://github.com/JegZheng/MS-MLP)
 - Efficient Language Modeling with Sparse all-MLP [[pdf]](https://arxiv.org/pdf/2203.06850.pdf)
-- ActiveMLP: An MLP-like Architecture with Active Token Mixer [[pdf]](https://arxiv.org/pdf/2203.06108.pdf)
+- ActiveMLP: An MLP-like Architecture with Active Token Mixer [[pdf]](https://arxiv.org/pdf/2203.06108.pdf) [[code]](https://github.com/microsoft/ActiveMLP)
