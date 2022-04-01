@@ -49,3 +49,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Mixing and Shifting: Exploiting Global and Local Dependencies in Vision MLPs [[pdf]](https://arxiv.org/pdf/2202.06510.pdf) [[code]](https://github.com/JegZheng/MS-MLP)
 - Efficient Language Modeling with Sparse all-MLP [[pdf]](https://arxiv.org/pdf/2203.06850.pdf)
 - ActiveMLP: An MLP-like Architecture with Active Token Mixer [[pdf]](https://arxiv.org/pdf/2203.06108.pdf) [[code]](https://github.com/microsoft/ActiveMLP)
+- Brain-inspired Multilayer Perceptron with Spiking Neurons [[pdf]](https://arxiv.org/pdf/2203.14679.pdf) [[code]](https://gitee.com/mindspore/models/tree/master/research/cv/snn_mlp)
