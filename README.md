@@ -52,3 +52,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Brain-inspired Multilayer Perceptron with Spiking Neurons [[pdf]](https://arxiv.org/pdf/2203.14679.pdf) [[code]](https://gitee.com/mindspore/models/tree/master/research/cv/snn_mlp)
 - DynaMixer: A Vision MLP Architecture with Dynamic Mixing [[pdf]](https://arxiv.org/pdf/2201.12083.pdf)
 - Boosting Adversarial Transferability of MLP-Mixer [[pdf]](https://arxiv.org/pdf/2204.12204.pdf)
+- MetaFormer is Actually What You Need for Vision [[pdf]](https://arxiv.org/pdf/2111.11418.pdf) [[code]](https://github.com/sail-sg/poolformer)
