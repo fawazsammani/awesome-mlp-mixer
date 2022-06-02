@@ -19,7 +19,7 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Pay Attention to MLPs [[pdf]](https://arxiv.org/pdf/2105.08050.pdf) [[code]](https://github.com/lucidrains/g-mlp-pytorch) [[code]](https://github.com/lucidrains/g-mlp-gpt) [[code]](https://github.com/jaketae/g-mlp)
 - **[FNet]** Mixing Tokens with Fourier Transforms [[pdf]](https://arxiv.org/pdf/2105.03824.pdf) [[code]](https://github.com/rishikksh20/FNet-pytorch) [[Yannic Kilcher Video]](https://www.youtube.com/watch?v=JJR3pBl78zw&t=1s)
 - Can Attention Enable MLPs To Catch Up With CNNs? [[pdf]](https://arxiv.org/pdf/2105.15078.pdf)
-- MixerGAN: An MLP-Based Architecture for Unpaired Image-to-Image Translation [[pdf]](https://arxiv.org/pdf/2105.14110.pdf)
+- **[MixerGAN]** An MLP-Based Architecture for Unpaired Image-to-Image Translation [[pdf]](https://arxiv.org/pdf/2105.14110.pdf)
 - On the Bias Against Inductive Biases [[pdf]](https://arxiv.org/pdf/2105.14077.pdf)
 - **[S<sup>2</sup> MLP]** Spatial-Shift MLP Architecture for Vision [[pdf]](https://arxiv.org/pdf/2106.07477.pdf)
 - **[Vision Permutator]** A Permutable MLP-Like Architecture for Visual Recognition [[pdf]](https://arxiv.org/pdf/2106.12368.pdf) [[code]](https://github.com/Andrew-Qibin/VisionPermutator)
