@@ -52,7 +52,7 @@ Please help in contributing to this list by submitting an [issue](https://github
 - Brain-inspired Multilayer Perceptron with Spiking Neurons [[pdf]](https://arxiv.org/pdf/2203.14679.pdf) [[code]](https://gitee.com/mindspore/models/tree/master/research/cv/snn_mlp)
 - **[DynaMixer]** A Vision MLP Architecture with Dynamic Mixing [[pdf]](https://arxiv.org/pdf/2201.12083.pdf)
 - Boosting Adversarial Transferability of MLP-Mixer [[pdf]](https://arxiv.org/pdf/2204.12204.pdf)
-- MetaFormer is Actually What You Need for Vision [[pdf]](https://arxiv.org/pdf/2111.11418.pdf) [[code]](https://github.com/sail-sg/poolformer)
+- **[PoolFormer]** MetaFormer is Actually What You Need for Vision [[pdf]](https://arxiv.org/pdf/2111.11418.pdf) [[code]](https://github.com/sail-sg/poolformer)
 - **[Sequencer]** Deep LSTM for Image Classification [[pdf]](https://arxiv.org/pdf/2205.01972.pdf)
 - **[Sparse Mixers]** Combining MoE and Mixing to build a more efficient BERT [[pdf]](https://arxiv.org/pdf/2205.12399.pdf) [[code]](https://github.com/google-research/google-research/tree/master/sparse_mixers)
 - **[MLP-3D]** A MLP-like 3D Architecture with Grouped Time Mixing [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qiu_MLP-3D_A_MLP-Like_3D_Architecture_With_Grouped_Time_Mixing_CVPR_2022_paper.pdf)
