@@ -58,3 +58,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[ShuffleMixer]** An Efficient ConvNet for Image Super-Resolution [[pdf]](https://arxiv.org/pdf/2205.15175.pdf) [[code]](https://github.com/sunny2109/MobileSR-NTIRE2022)
 - **[Wave-MLP]** An Image Patch is a Wave: Phase-Aware Vision MLP [[pdf]](https://arxiv.org/pdf/2111.12294.pdf) [[code]](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)
 - **[STD]** Spatial-Channel Token Distillation for Vision MLPs [[pdf]](https://proceedings.mlr.press/v162/li22c/li22c.pdf)
+- **[Sequencer]** Deep LSTM for Image Classification [[pdf]](https://arxiv.org/pdf/2205.01972.pdf)
