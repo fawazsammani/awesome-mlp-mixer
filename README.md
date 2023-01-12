@@ -24,7 +24,7 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[S<sup>2</sup> MLP]** Spatial-Shift MLP Architecture for Vision [[pdf]](https://arxiv.org/pdf/2106.07477.pdf)
 - **[Vision Permutator]** A Permutable MLP-Like Architecture for Visual Recognition [[pdf]](https://arxiv.org/pdf/2106.12368.pdf) [[code]](https://github.com/Andrew-Qibin/VisionPermutator)
 - Rethinking Token-Mixing MLP for MLP-based Vision Backbone [[pdf]](https://arxiv.org/pdf/2106.14882.pdf)
-- Global Filter Networks for Image Classification [[pdf]](https://arxiv.org/pdf/2107.00645.pdf) [[code]](https://github.com/raoyongming/GFNet)
+- **[GFNet]** Global Filter Networks for Image Classification [[pdf]](https://arxiv.org/pdf/2107.00645.pdf) [[code]](https://github.com/raoyongming/GFNet)
 - What Makes for Hierarchical Vision Transformer? [[pdf]](https://arxiv.org/pdf/2107.02174.pdf)
 - **[As-MLP]** An Axial Shifted MLP architecture for Vision [[pdf]](https://arxiv.org/pdf/2107.08391.pdf)[[code]](https://github.com/svip-lab/AS-MLP)
 - **[CycleMLP]** A MLP-like Architecture for Dense Prediction [[pdf]](https://arxiv.org/pdf/2107.10224.pdf)[[code]](https://github.com/ShoufaChen/CycleMLP)
@@ -59,3 +59,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[Wave-MLP]** An Image Patch is a Wave: Phase-Aware Vision MLP [[pdf]](https://arxiv.org/pdf/2111.12294.pdf) [[code]](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)
 - **[STD]** Spatial-Channel Token Distillation for Vision MLPs [[pdf]](https://proceedings.mlr.press/v162/li22c/li22c.pdf)
 - **[Sequencer]** Deep LSTM for Image Classification [[pdf]](https://arxiv.org/pdf/2205.01972.pdf)
+- **[AFNO]** Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers [[pdf]](https://arxiv.org/pdf/2111.13587.pdf) [[code]](https://github.com/NVlabs/AFNO-transformer)
