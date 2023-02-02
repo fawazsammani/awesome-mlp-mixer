@@ -60,3 +60,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[STD]** Spatial-Channel Token Distillation for Vision MLPs [[pdf]](https://proceedings.mlr.press/v162/li22c/li22c.pdf)
 - **[Sequencer]** Deep LSTM for Image Classification [[pdf]](https://arxiv.org/pdf/2205.01972.pdf)
 - **[AFNO]** Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers [[pdf]](https://arxiv.org/pdf/2111.13587.pdf) [[code]](https://github.com/NVlabs/AFNO-transformer)
+- **[Graph-MLPMixer]** A Generalization of ViT/MLP-Mixer to Graphs [[pdf]](https://arxiv.org/pdf/2212.13350.pdf) [[code]](https://github.com/XiaoxinHe/Graph-MLPMixer)
