@@ -61,3 +61,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[Sequencer]** Deep LSTM for Image Classification [[pdf]](https://arxiv.org/pdf/2205.01972.pdf)
 - **[AFNO]** Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers [[pdf]](https://arxiv.org/pdf/2111.13587.pdf) [[code]](https://github.com/NVlabs/AFNO-transformer)
 - **[Graph-MLPMixer]** A Generalization of ViT/MLP-Mixer to Graphs [[pdf]](https://arxiv.org/pdf/2212.13350.pdf) [[code]](https://github.com/XiaoxinHe/Graph-MLPMixer)
+- **[ChordMixer]** A Scalable Neural Attention Model for Sequences with Different Lengths [[pdf]](https://arxiv.org/pdf/2206.05852v2.pdf) [[code]](https://github.com/RuslanKhalitov/ChordMixer)
