@@ -57,7 +57,7 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[MLP-3D]** A MLP-like 3D Architecture with Grouped Time Mixing [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qiu_MLP-3D_A_MLP-Like_3D_Architecture_With_Grouped_Time_Mixing_CVPR_2022_paper.pdf)
 - **[ShuffleMixer]** An Efficient ConvNet for Image Super-Resolution [[pdf]](https://arxiv.org/pdf/2205.15175.pdf) [[code]](https://github.com/sunny2109/MobileSR-NTIRE2022)
 - **[Wave-MLP]** An Image Patch is a Wave: Phase-Aware Vision MLP [[pdf]](https://arxiv.org/pdf/2111.12294.pdf) [[code]](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)
-- **[STD]** Spatial-Channel Token Distillation for Vision MLPs [[pdf]](https://proceedings.mlr.press/v162/li22c/li22c.pdf)
+- **[STD]** Spatial-Channel Token Distillation for Vision MLPs [[pdf]](https://proceedings.mlr.press/v162/li22c/li22c.pdf) [[code]](https://github.com/devrimcavusoglu/std)
 - **[Sequencer]** Deep LSTM for Image Classification [[pdf]](https://arxiv.org/pdf/2205.01972.pdf)
 - **[AFNO]** Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers [[pdf]](https://arxiv.org/pdf/2111.13587.pdf) [[code]](https://github.com/NVlabs/AFNO-transformer)
 - **[Graph-MLPMixer]** A Generalization of ViT/MLP-Mixer to Graphs [[pdf]](https://arxiv.org/pdf/2212.13350.pdf) [[code]](https://github.com/XiaoxinHe/Graph-MLPMixer)
