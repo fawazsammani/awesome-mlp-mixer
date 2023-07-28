@@ -62,3 +62,5 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[AFNO]** Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers [[pdf]](https://arxiv.org/pdf/2111.13587.pdf) [[code]](https://github.com/NVlabs/AFNO-transformer)
 - **[Graph-MLPMixer]** A Generalization of ViT/MLP-Mixer to Graphs [[pdf]](https://arxiv.org/pdf/2212.13350.pdf) [[code]](https://github.com/XiaoxinHe/Graph-MLPMixer)
 - **[ChordMixer]** A Scalable Neural Attention Model for Sequences with Different Lengths [[pdf]](https://arxiv.org/pdf/2206.05852v2.pdf) [[code]](https://github.com/RuslanKhalitov/ChordMixer)
+- **[Strip-MLP]** Efficient Token Interaction for Vision MLP [[pdf]](https://arxiv.org/pdf/2307.11458.pdf) [[code]](https://github.com/Med-Process/Strip_MLP)
+- Scaling MLPs: A Tale of Inductive Bias [[pdf]](https://arxiv.org/pdf/2306.13575.pdf) [[code]](https://github.com/gregorbachmann/scaling_mlps)
