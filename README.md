@@ -64,3 +64,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[ChordMixer]** A Scalable Neural Attention Model for Sequences with Different Lengths [[pdf]](https://arxiv.org/pdf/2206.05852v2.pdf) [[code]](https://github.com/RuslanKhalitov/ChordMixer)
 - **[Strip-MLP]** Efficient Token Interaction for Vision MLP [[pdf]](https://arxiv.org/pdf/2307.11458.pdf) [[code]](https://github.com/Med-Process/Strip_MLP)
 - Scaling MLPs: A Tale of Inductive Bias [[pdf]](https://arxiv.org/pdf/2306.13575.pdf) [[code]](https://github.com/gregorbachmann/scaling_mlps)
+- **[MixVPR]** Feature Mixing for Visual Place Recognition [[pdf]](https://arxiv.org/pdf/2303.02190.pdf) [[code]](https://github.com/amaralibey/MixVPR)
