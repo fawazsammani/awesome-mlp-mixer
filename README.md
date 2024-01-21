@@ -65,3 +65,4 @@ Please help in contributing to this list by submitting an [issue](https://github
 - **[Strip-MLP]** Efficient Token Interaction for Vision MLP [[pdf]](https://arxiv.org/pdf/2307.11458.pdf) [[code]](https://github.com/Med-Process/Strip_MLP)
 - Scaling MLPs: A Tale of Inductive Bias [[pdf]](https://arxiv.org/pdf/2306.13575.pdf) [[code]](https://github.com/gregorbachmann/scaling_mlps)
 - **[MixVPR]** Feature Mixing for Visual Place Recognition [[pdf]](https://arxiv.org/pdf/2303.02190.pdf) [[code]](https://github.com/amaralibey/MixVPR)
+- **[pNLP-Mixer]** An Efficient all-MLP Architecture for Language [[pdf]](https://aclanthology.org/2023.acl-industry.6.pdf) [[code]](https://github.com/maum-ai/pnlp-mixer)
